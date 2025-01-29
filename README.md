@@ -1,6 +1,6 @@
-# 🚀 HeadShotlyAI Product Roadmap
+# 🚀 HeadShotly.ai Product Roadmap
 
-Welcome to the **HeadShotly AI** product roadmap! 🎯  
+Welcome to the **HeadShotly.ai** product roadmap! 🎯  
 This roadmap outlines upcoming features and innovations, helping users decide on our **Lifetime Deal (LTD).**
 
 ### ✅ **November 2024**
