@@ -15,9 +15,12 @@ This roadmap outlines upcoming features and innovations, helping users decide on
 - [x] 🚀 **Prompt Enhancer**  
   - Improves user-written prompts for better AI-generated results.  
 - [x] 🖼️ **Image Replicator / Style Replicator**  
-  - Upload any photo, and our AI will **replicate the style** using your images.  
+  - Upload any photo, and our AI will **replicate the style** using your images.
 
-
+### ✅ **January 2025**
+- [x] 🎥 **AI Video Generator v1**  
+  - Our first version of **AI-generated videos** is now live!
+  - 
 ## 🏆 Upcoming Features
 
 ### ✅ **January 2025**
