@@ -3,6 +3,12 @@
 Welcome to the **HeadShotly AI** product roadmap! 🎯  
 This roadmap outlines upcoming features and innovations, helping users decide on our **Lifetime Deal (LTD).**
 
+### ✅ **November 2024**
+- [x] ⭐ **Favorite Button**  
+  - Users can **save and favorite** their best AI-generated images.  
+- [x] 🎁 **Friends Referral Bonus**  
+  - Invite friends and **earn exclusive rewards.**  
+
 ### ✅ **December 2024**
 - [x] ✍️ **AI Prompt Builder**  
   - Helps users **write AI prompts** without worrying about the details.  
@@ -11,15 +17,10 @@ This roadmap outlines upcoming features and innovations, helping users decide on
 - [x] 🖼️ **Image Replicator / Style Replicator**  
   - Upload any photo, and our AI will **replicate the style** using your images.  
 
-### ✅ **November 2024**
-- [x] ⭐ **Favorite Button**  
-  - Users can **save and favorite** their best AI-generated images.  
-- [x] 🎁 **Friends Referral Bonus**  
-  - Invite friends and **earn exclusive rewards.**  
 
 ## 🏆 Upcoming Features
 
-### ✅ **January 2025 (This Week)**
+### ✅ **January 2025**
 - [x] 🎨 **AI-Powered Clothing & Branding**  
   - Users can try on **company office attire** or **brand colors** in AI-generated photos.
 
